@@ -2,6 +2,3 @@ this is a test file
 
 added text
 
-more changes
-
-changed in notepad++
